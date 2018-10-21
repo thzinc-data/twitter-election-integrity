@@ -1,0 +1,5 @@
+ira_*
+iranian_*
+**/bin
+**/obj
+.DS_Store
